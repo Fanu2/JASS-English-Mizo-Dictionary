@@ -1,3 +1,5 @@
+<img width="1902" height="925" alt="image" src="https://github.com/user-attachments/assets/a865dab1-8631-4e30-a179-bb18d3223aca" />
+
 <img width="1902" height="925" alt="image" src="https://github.com/user-attachments/assets/cd0131a4-d10b-4174-a5ae-ba0028cd6814" />
 
 # JASS English–Mizo Dictionary Pro
