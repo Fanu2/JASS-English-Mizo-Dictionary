@@ -1,3 +1,5 @@
+<img width="1902" height="925" alt="image" src="https://github.com/user-attachments/assets/cd0131a4-d10b-4174-a5ae-ba0028cd6814" />
+
 # JASS English–Mizo Dictionary Pro
 
 A beautiful, fast, offline desktop dictionary built with **Python + PySide6**, designed for English–Mizo language lookup and local dictionary management.
